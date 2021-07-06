@@ -11,3 +11,5 @@
 .. raw:: html
 
 	 <script src="https://bibbase.org/show?bib=https://colinjcotter.github.io/_static/cjc.bib&jsonp=1&jsonp=1"></script>
+
+	 <script src="https://bibbase.org/show?bib=https://colinjcotter.github.io/_static/da.bib&jsonp=1&jsonp=1"></script>
