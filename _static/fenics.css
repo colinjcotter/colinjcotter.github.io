@@ -740,3 +740,7 @@ div.figure {
 }
 
 span.strikethrough { text-decoration: line-through; }
+
+#bibbase_header {
+  display: none;
+}
