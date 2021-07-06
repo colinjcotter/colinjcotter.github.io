@@ -1,0 +1,9 @@
+.. only:: latex
+
+   ============================================
+   Prof Colin Cotter
+   ============================================
+
+.. image:: _static/colin.jpg
+   :align: right
+   :width: 20ex
