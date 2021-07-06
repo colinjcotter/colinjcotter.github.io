@@ -7,3 +7,7 @@
 .. image:: _static/colin.jpg
    :align: right
    :width: 20ex
+
+.. raw:: html
+
+	 <script src="https://bibbase.org/show?bib=https://colinjcotter.github.io/_static/cjc.bib&jsonp=1&jsonp=1"></script>
